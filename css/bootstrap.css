@@ -4967,7 +4967,7 @@ a.badge:focus {
   color: inherit;
 }
 .jumbotron p {
-  margin-bottom: 30px;
+  margin-bottom: 15px;
   font-size: 21px;
   font-weight: 200;
 }
@@ -5195,7 +5195,6 @@ a.thumbnail.active {
 }
 .media {
   margin-top: 15px;
-  margin-bottom: 15px;
 }
 .media:first-child {
   margin-top: 0;
